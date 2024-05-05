@@ -1,5 +1,5 @@
 # Name Finder
-<p>NameExtractor is a Maven project that extracts names from a given web page and prints them to the console. 
+<p>Name Finder is a Maven project that extracts names from a given web page and prints them to the console. 
   It utilizes the Jsoup library to fetch the content of the specified web page and processes it using the NameFinder of OpenNLP. Additionally, it may utilize a Sentence Detector and Tokenizer. 
   Trained models should be placed under the src/main/resources folder.</p>
   
