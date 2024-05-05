@@ -9,7 +9,7 @@ Project Features:
 * Processes and cleans the content of the web page using the Jsoup library.
 * Uses the NameFinder of OpenNLP to identify names within the text.
 * Optionally, utilizes a Sentence Detector and Tokenizer if needed.
-* Trained models should be located under the src/main/resources folder.
+* Trained models should be located under the main/resources folder.
   <p></p>
 Project Example input and output:  
 ![image](https://github.com/AliHanBtmz/Name-Finder/assets/132774344/b8612a48-e03d-4140-9857-a84e1383fdc2)
